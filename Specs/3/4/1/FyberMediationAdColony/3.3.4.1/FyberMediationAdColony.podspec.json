@@ -41,7 +41,7 @@
   "compiler_flags": "-ObjC",
   "dependencies": {
     "FyberSDK": [
-      "~> 8.4"
+      "~> 9.1.1"
     ]
   }
 }
